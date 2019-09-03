@@ -1,0 +1,11 @@
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\bin\Debug\HF1_OOP_Opgave1.exe.config
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\bin\Debug\HF1_OOP_Opgave1.exe
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\bin\Debug\HF1_OOP_Opgave1.pdb
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\obj\Debug\HF1_OOP_Opgave1.csprojAssemblyReference.cache
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\obj\Debug\HF1_OOP_Opgave1.csproj.CoreCompileInputs.cache
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\obj\Debug\HF1_OOP_Opgave1.exe
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\obj\Debug\HF1_OOP_Opgave1.pdb
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\bin\Debug\Colorful.Console.dll
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\obj\Debug\HF1_OOP_Opgave1.csproj.CopyComplete
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\bin\Debug\System.ValueTuple.dll
+C:\Users\reeth\source\repos\HF1_OOP_Opgave1\HF1_OOP_Opgave1\bin\Debug\System.ValueTuple.xml
