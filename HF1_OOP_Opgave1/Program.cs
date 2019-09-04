@@ -12,6 +12,8 @@ namespace HF1_OOP_Opgave1
     {
         static void Main(string[] args)
         {
+            //Denne kommentar er til for at illustrere virkningen af GIT/GitHub
+
             /** Det følgende Ludo-spil er baseret på GlobusLudo, hvor stjerne og globus indgår i spillet. Indtil videre er der kun
              * mulighed for at spille 4 spillere.*/
 
